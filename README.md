@@ -1,5 +1,5 @@
 # StreamSpark
-<img width="1350" alt="spark-streaming" src="https://github.com/MohamedSelim11/StreamSpark/assets/127447294/335318dc-f590-4cbf-b764-daabbdab04fd">
+![streaming_cover](https://github.com/MohamedSelim11/StreamSpark/assets/127447294/e6fdbbc8-b4ef-4deb-8ec0-c9ec22e9e3c6)
 
 # Overview
 
