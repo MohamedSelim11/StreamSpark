@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/mohamed/ITI/Pyspark/practical2/OutStreamk/part-00000-957536b1-3558-458d-8cdf-100f17cc3b06-c000.csv","size":3934,"isDir":false,"modificationTime":1696580080285,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/mohamed/ITI/Pyspark/practical2/OutStreamk/part-00001-6629eeb7-dd37-4704-b915-c49b6f4bc958-c000.csv","size":3901,"isDir":false,"modificationTime":1696580080281,"blockReplication":1,"blockSize":33554432,"action":"add"}
